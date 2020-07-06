@@ -144,7 +144,11 @@ function Home () {
             <footer>
                 <div className="row footer">
                     <div className="col-12">
-                        <h4>Jackson Alves 2020</h4>
+                        <h4> <a 
+                                href="https://www.linkedin.com/in/jackson-alves541/" 
+                                className='perfilLink'
+                                target='_blank'
+                            >Jackson Alves 2020</a></h4>
                     </div>
                 </div>
             </footer>
