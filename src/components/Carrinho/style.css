@@ -1,0 +1,49 @@
+.carrinho {
+    background-color: black;
+    color: white;
+}
+
+.carrinho aside {
+    padding: 10%;
+}
+
+.carrinho-item {
+    padding: 5% 0 0 0;
+}
+
+.carrinho-item div p{
+    line-height: 40px;
+}
+
+.carrinho-item img{
+    float: left;
+}
+
+.carrinho-item .preco {
+    text-align: right;
+    color: #80ffaa
+}
+
+.divisor{
+    background-color: white;
+}
+
+.preco-total{
+    text-align: right;
+    color: #80ffaa
+}
+
+.botao-finalizar, .botao-concluir {
+    background-color:  #80ffaa;
+    border-top:none ;
+    border-left:none ;
+    border-right: 1px solid #666666;
+    border-bottom: 1px solid #666666;
+    border-radius: 5px;
+    width: 100%;
+    padding: 3% 0;
+}
+
+.botao-finalizar:active, .botao-concluir:active {
+    background-color: #77e99d;
+}

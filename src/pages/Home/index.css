@@ -1,0 +1,47 @@
+.header{
+    padding: 2% 0;
+    background-color: #030338;
+}
+
+.titulo {
+    text-align: right;
+    font-size: 60px;
+    color: white;
+    font-weight: bold;
+    font-family: cursive;
+}
+
+.cardsSection {
+    background-color: #e60000;
+    padding-bottom: 2%;
+    min-height: 450px;
+    align-items: center;
+}
+
+.notFound {
+    color: white;
+    text-align: center;
+}
+
+.button-pass-page {
+    background-color: #80ffaa;
+    border-top:none ;
+    border-left:none ;
+    border-right: 1px solid #666666;
+    border-bottom: 1px solid #666666;
+    border-radius: 5px;
+    width: 30%;
+    padding: 1% 0;
+    margin-left: 30%;
+}
+
+.button-pass-page:active {
+    background-color: #77e99d;
+}
+
+.footer{
+    background-color: #030338;
+    color: white;
+    padding: 2% 0;
+    text-align: center;
+}
