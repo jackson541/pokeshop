@@ -42,4 +42,5 @@ yarn start
 ```
 
 ## Pontos a mais
+Infelizmente, ainda não tive tempo para adicionar a responsividade ao projeto. Sendo assim, ele só poderá ser utilizado bem por desktop.
 Fique a vontade para dar uma olhada no código, abrir uma issue para falarmos sobre algo ou dar um pull request. :grin:
