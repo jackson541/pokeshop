@@ -34,11 +34,11 @@ O projeto foi construído totalmente utilizando [React](https://pt-br.reactjs.or
 ## Como rodar na sua máquina
 Para instalar as dependências
 ```sh
-yarn install
+npm install
 ```
 Para rodar o projeto
 ```sh
-yarn start
+npm start
 ```
 
 ## Pontos a mais
